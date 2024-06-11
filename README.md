@@ -14,8 +14,9 @@ I am an aspiring Computer Science professional with hands-on experience in data 
 - 🌱 Currently learning: Advanced security protocols, cloud computing
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about: Python, C/C++, Bash, Data Analytics, Cloud Computing
-- 📫 How to reach me: [Email](mailto:sjo7@njit.edu) | [LinkedIn](https://www.linkedin.com/in/stephen-j-ordway-6b90555b/)
+- 📫 How to reach me:
 - ⚡ Fun fact: ...
+
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
