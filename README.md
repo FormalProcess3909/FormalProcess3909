@@ -1,144 +1,77 @@
 <!--
 **FormalProcess3909/FormalProcess3909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=FormalProcess3909&color=0e75b6)
-
 # Hi there, I'm Stephen Ordway 👋
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=FormalProcess3909&color=0e75b6" />
+</p>
 
-## About Me
+## 📖 About Me
 
-I am an aspiring Computer Science professional with hands-on experience in data analytics and system security. I am passionate about leveraging my programming skills and security knowledge to contribute to innovative security solutions in data science, cloud computing, and systems security. I'm still building my profile so bare with me as it looks better over time.
+Computer Science graduate focused on **systems and network security, infrastructure automation, and low-level programming**.
 
-- 🔭 I’m currently working through the book DevOps for the Desperate from No Starch Press [DevOps for the Desperate](https://github.com/bradleyd/devops_for_the_desperate)
-- 🌱 Currently learning: Vagrant and Ansible
-- 👯 I’m looking to connect with people in the open source community
-- 💬 Ask me about: Python, C/C++, Bash, Data Analytics, or anything really.
-- ⚡ Fun fact: I love animals
+I enjoy continuously developing my technical skills through hands-on projects, working through technical books, and experimenting with new technologies and tools.
 
-## 🔧 Skills, Frameworks, & Tools
+Currently, I am strengthening my systems programming skills in C by developing a secure password vault, while also learning Go, containerization with Docker, and modern runtime environments like Deno and TypeScript.
+
+Much of my learning comes from working through technical books and hands-on tutorials, particularly from No Starch Press, while applying what I learn through personal projects and lab environments.
+
+- 🔭 Currently working through *Network Programming with Go* by No Starch Press  
+- 🌱 Learning: C, Vagrant, Ansible, Go, and containerization with Docker  
+- 👯 Open to connecting with others in the open source and security communities  
+- ⚡ Fun fact: I love animals - currently sharing my home with four cats and two rabbits
+
+## 🔧 Technical Stack
 
 ### Programming Languages
-<p align-"left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/>
-    </a>
-</p>
-
-### Frontend Development
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C programming language" width="48" height="48" />
+</a>
+&nbsp;&nbsp;
+<a href="https://golang.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go programming language" width="48" height="48" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python programming language" width="48" height="48" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash shell scripting language" width="48" height="48" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript programming language" width="48" height="48" />
+</a>
+&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript programming language" width="48" height="48" />
+</a>
 </p>
 
-### Backend Development
+### Infrastructure & DevOps
 <p align="left">
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
-    </a>
-    &nbsp;
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux operating system" width="48" height="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker container platform" width="48" height="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="Vagrant virtual machine automation" width="48" height="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible automation platform" width="48" height="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git version control system" width="48" height="48"/>
+</a>
 </p>
-
-### Testing
-<p align="left">
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-    </a>
-</p>
-
-### Data Visualization
-<p align="left">
-    <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> 
-    </a>
-    &nbsp;
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    </a>
-</p>
-
-### DevOps
-<p align="left">
-    <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-    </a>
-    &nbsp;
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-    </a>
-</p>
-
-### Database
-<p align="left">
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-</p>
-
-### AI/ML
-<p align="left">
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-    </a> 
-</p>
-
-##  Technologies & Tools
-
-<!-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
-![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=google-cloud)
-![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark)
-![Metasploit](https://img.shields.io/badge/-Metasploit-333333?style=flat&logo=metasploit) -->
 
 ## 📈 GitHub Stats
 
@@ -161,9 +94,5 @@ I am an aspiring Computer Science professional with hands-on experience in data 
 
 ## 📫 Contact
 
-- LinkedIn: [Stephen J Ordway](https://www.linkedin.com/in/stephen-ordway-053748207/) Currently updating to new LinkedIn from old account
+- LinkedIn: [Stephen J Ordway](https://www.linkedin.com/in/stephen-ordway-053748207/)
 - GitHub: [FormalProcess3909](https://github.com/FormalProcess3909)
-
- 
-<!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> -->
